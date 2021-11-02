@@ -12,7 +12,7 @@ export function TransactionsTable() {
       <table>
         <thead>
           <tr>
-            <th>Titulo</th>
+            <th>Titulo</th>  
             <th>Valor</th>
             <th>Categoria</th>
             <th>Data</th>
@@ -31,7 +31,7 @@ export function TransactionsTable() {
             <td>R$1200</td>
             <td>Desenvol</td>
             <td>20/23/1233</td>
-          </tr>
+          </tr> 
           <tr>
             <td>Desenvolvimento de web</td>
             <td>R$1200</td>
